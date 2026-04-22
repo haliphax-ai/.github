@@ -1,6 +1,6 @@
 ![banner](banner.jpg)
 
-## 🦀 × 🧑 Recent projects
+## 🧑 × 👻 Recent projects
 
 <!--- BEGIN RECENT PROJECTS (NO MORE THAN 5, ADD TO TOP OF LIST) --->
 - **[OpenClaw Canvas Web](https://github.com/haliphax-openclaw/openclaw-canvas-web)** — Cross-platform OpenClaw Canvas server — Express + Vue 3 SPA with A2UI v0.9 rendering, WebSocket gateway, and DaisyUI themes
