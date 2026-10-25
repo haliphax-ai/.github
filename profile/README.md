@@ -1,6 +1,6 @@
 ![banner](banner.jpg)
 
-## 🧑 × 👻 Recent projects
+## 🧑‍💻 × 👻 Recent projects
 
 <!--- BEGIN RECENT PROJECTS (NO MORE THAN 5, ADD TO TOP OF LIST) --->
 - **[Yog](https://github.com/haliphax-ai/yog)** - FUSE VFS agent harness where `bash` is the only tool and the system presents itself as proxied virtual file descriptors
